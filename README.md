@@ -12,3 +12,6 @@ I’m CharlieScene creator of
 - Kokoloriskarrell
 - Cocaine and caviar
 - Unorganiszized chrime
+- christian-knedel.de
+- shoopido.com
+- 365layouts.de
