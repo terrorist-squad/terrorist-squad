@@ -1,7 +1,3 @@
-![This is an image](https://b.thumbs.redditmedia.com/29TmyH9RQovH3fWVyFIRIBfiYQQYEAPAVrWXv05QJTc.jpg)
-
-Stand With Ukraine 
-
 Hi there 👋
 
 I’m CharlieScene creator of  
@@ -19,3 +15,5 @@ I’m CharlieScene creator of
 - [spreadshirt_api_client](https://github.com/terrorist-squad/spreadshirt_api_client)
 - [DTPixler](https://github.com/terrorist-squad/DTPixler)
 - [django-FileBasedCache-by-language-middleware](https://github.com/terrorist-squad/django-FileBasedCache-by-language-middleware)
+- [LMN-3-DAW 32-Bit for Raspberry PI 3](https://github.com/terrorist-squad/LMN-3-DAW)
+![LMN-3-DAW 32-Bit for Raspberry PI 3](https://raw.githubusercontent.com/terrorist-squad/terrorist-squad/main/IMG_3082.jpg)
